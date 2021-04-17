@@ -20,6 +20,10 @@ Not really. Not all variables contribute to mpg. Some coefficient has p-value la
 
 ## Summary Statistics on Suspension Coils
 
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
+The current manufacturing data overall meets this design specification because the variance is 62.3<100. 
+However, lot3 does not meet the specification with variance equal to 170.3. 
+
 ### Total Summary
 
 ![1](total_summary.png)
