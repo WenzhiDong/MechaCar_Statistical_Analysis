@@ -91,3 +91,28 @@ the PSI for lot3 is statistically different from the population mean of 1,500 po
 
 
 ## Study Design: MechaCar vs Competition
+
+### What metric or metrics are you going to test?
+
+I will test highway fuel efficiency and horse power, concerning with performance.
+
+### What is the null hypothesis or alternative hypothesis?
+
+There are two tests below:
+
+Ho: The fuel efficiency is the same for cars from different manufacturers
+Ha: At least one manufacturers have different fuel efficiency from others.
+
+
+Ho: The horse power is the same for cars from different manufacturers
+Ha: at least one manufacturers have different horse power from others.
+
+### What statistical test would you use to test the hypothesis? And why?
+
+I will use ANOVA test, because the data of cars from multiple manufacturers will be collected.
+
+And after ANOVA, if I reject Ho, I will apply Tukey HSD test to see the details.
+
+### What data is needed to run the statistical test?
+
+The horse power data and fuel efficiency from different manufacturers are required to be collected.  
