@@ -88,3 +88,6 @@ P-value is less than 0.05. We have enough evidence to say that the the mean of P
 
 the PSI for lot3 is statistically different from the population mean of 1,500 pounds per square inch.
 
+
+
+## Study Design: MechaCar vs Competition
